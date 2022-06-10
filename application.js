@@ -19,12 +19,12 @@ if(navClose)
 {
     navClose.addEventListener('click', ()=>
     {
-        navMenu.classList.remove('show-menu');
+        navMenu.classList.add('show-menu');
     })
 }
 
 /*==================== REMOVE MENU MOBILE ====================*/
-const navLink=document.querySelectorAll('.nav__link');
+const navLink=document.querySelectorAll('.nav__toggle');
 
 function linkAction()
 {
