@@ -639,6 +639,16 @@ img{
     width: 100%;
 }
 
+.skills__PHP
+{
+    width: 100%;
+}
+
+.skills__mySQL
+{
+    width: 100%;
+}
+
 .skills__close .skills__list
 {
     height:0;
