@@ -972,7 +972,7 @@ img{
 
 /*==================== FOOTER ====================*/
 .portfolio__button:hover{
-    padding-top: 2rem;
+    color: var(--first-color-lighter);
 }
 
 .footer__container
